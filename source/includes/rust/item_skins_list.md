@@ -107,7 +107,6 @@
 | 791109245    | Little Friend                     |
 | 888839261    | Maracas Bone Club                 |
 | 945026868    | Sacrifial club                    |
-
 ## Bone Helmet (deer.skull.mask)
 | Skin Id      | Skin name                         |
 |--------------|-----------------------------------|
@@ -296,9 +295,10 @@
 | 892263562    | Ancient Artifact Hatchet          |
 | 814630559    | Firefighter Hatchet               |
 | 824552943    | Golden Axe                        |
-| 924242197    | Iron Jaws                         |
+| 924242197    | Iron Jaws Hatchet                 |
 | 915910717    | Iron Wing                         |
 | 816715928    | Military Hatchet                  |
+| 944497252    | Ornate Axe                        |
 | 910196839    | Red Chopper                       |
 | 912857899    | Replacement Blade Hatchet         |
 | 928879549    | Sunrise Hatchet                   |
@@ -710,7 +710,7 @@
 |--------------|-----------------------------------|
 | 828885909    | Metal Roses Short Sword           |
 | 893871715    | Roadsign Sword                    |
-| 930557072    | Trained to Kill                   |
+| 930557072    | Trained To Kill                   |
 | 825240467    | Wooden Sword                      |
 
 ## Sandbag Barricade (barricade.sandbags)
@@ -808,7 +808,7 @@
 | 794678401    | Camo Shorts                       |
 | 793871235    | Cutoff Shorts                     |
 | 818068257    | Homemade Shorts                   |
-|       | Snow Camo Shorts                  |
+| 799006291    | Snow Camo Shorts                  |
 
 ## Sleeping Bag (sleepingbag)
 | Skin Id      | Skin name                         |
